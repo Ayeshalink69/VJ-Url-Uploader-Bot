@@ -1,3 +1,7 @@
+# Don't Remove Credit Tg - @VJ_Botz
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Ask Doubt on telegram @KingVJ01
+
 import os
 import re
 from os import environ, getenv
@@ -63,4 +67,6 @@ class Config(object):
     TECH_VJ_API = environ.get('TECH_VJ_API', 'fc8480249a931a22190ee55efae26fa296d760f1') # your url shortner api
     TECH_VJ_TUTORIAL = os.environ.get("TECH_VJ_TUTORIAL", "https://t.me/open_linkk_by_ayesha/15")
 
-
+# Don't Remove Credit Tg - @VJ_Botz
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Ask Doubt on telegram @KingVJ01
